@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HR.LeaveManagment.Domain\HR.LeaveManagment.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTos\LeaveRequest\Validators\" />
+    <Folder Include="Featuer\LeaveAllocation\Handlers\Queries\" />
+    <Folder Include="Featuer\LeaveAllocation\Requestes\Queries\" />
+    <Folder Include="Featuer\LeaveType\Handlers\Commands\" />
+    <Folder Include="Featuer\LeaveType\Requestes\Commands\" />
+  </ItemGroup>
+
+</Project>

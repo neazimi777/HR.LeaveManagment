@@ -1,0 +1,12 @@
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\bin\Debug\net5.0\HR.LeaveManagment.Domain.deps.json
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\bin\Debug\net5.0\HR.LeaveManagment.Domain.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\bin\Debug\net5.0\HR.LeaveManagment.Domain.pdb
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.csproj.AssemblyReference.cache
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.AssemblyInfoInputs.cache
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.AssemblyInfo.cs
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.csproj.CoreCompileInputs.cache
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\refint\HR.LeaveManagment.Domain.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\HR.LeaveManagment.Domain.pdb
+D:\my-leave-management-dotnetcore\HR.LeaveManagment.Domain\obj\Debug\net5.0\ref\HR.LeaveManagment.Domain.dll
