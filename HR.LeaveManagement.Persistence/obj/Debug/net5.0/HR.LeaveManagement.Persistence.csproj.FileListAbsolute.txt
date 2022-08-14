@@ -1,0 +1,17 @@
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Persistence.deps.json
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagment.Application.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagment.Domain.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagment.Application.pdb
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagment.Domain.pdb
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\refint\HR.LeaveManagement.Persistence.dll
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+D:\my-leave-management-dotnetcore\HR.LeaveManagement.Persistence\obj\Debug\net5.0\ref\HR.LeaveManagement.Persistence.dll

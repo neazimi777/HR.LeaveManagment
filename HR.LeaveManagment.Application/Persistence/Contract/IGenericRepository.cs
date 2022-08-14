@@ -13,9 +13,9 @@ namespace HR.LeaveManagment.Application.Persistence.Contract
         Task<T> Add(T entity);
 
         Task<bool> Exsist(int id);
-        Task<T>Update(T entity);
+        Task Update(T entity);
 
-        Task<T>Delete(T entity);
+        Task Delete(T entity);
 
 
 

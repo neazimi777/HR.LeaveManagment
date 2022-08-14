@@ -35,18 +35,20 @@ namespace HR.LeaveManagment.Application.Featuer.LeaveType.Handlers.Commands
                 response.Success = false;
                 response.Message = "Creation Failed";
                 response.Errors = validationResult.Errors.Select(q => q.ErrorMessage).ToList();
+            }
+            else
+            {
+                //var leaveType = _mapper.Map<LeaveType>(request.leaveTypeDto);
 
-
-                var leaveType = _mapper.Map<HR.LeaveManagment.Domain.LeaveType>(request.leaveTypeDto);
-                leaveType = await _leaveTypeRepository.Add(leaveType);
-
+                //leaveType = await _unitOfWork.LeaveTypeRepository.Add(leaveType);
+                //await _unitOfWork.Save();
 
                 response.Success = true;
                 response.Message = "Creation Successful";
-                response.Id = leaveType.Id;
-
-                return response;
+              // response.Id = .Id;
             }
+
+            return response;
         }
     }
 }
