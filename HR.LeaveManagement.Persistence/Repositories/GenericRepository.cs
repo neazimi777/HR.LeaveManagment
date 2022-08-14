@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Persistence.Repositories
 {
-    public class GenericRepositorycs<T> : IGenericRepository<T> where T : class
+    public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
         private readonly LeaveManagmentDbContext _dbContext;
 
-        public GenericRepositorycs(LeaveManagmentDbContext dbContext)
+        public GenericRepository(LeaveManagmentDbContext dbContext)
         {
             _dbContext = dbContext;
         }

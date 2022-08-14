@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {}
+    "E:\\HR.LeaveManagment\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {}
   },
   "projects": {
-    "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {
+    "E:\\HR.LeaveManagment\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
+        "projectUniqueName": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
         "projectName": "HR.LeaveManagment.Application",
-        "projectPath": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
-        "packagesPath": "C:\\Users\\negar\\.nuget\\packages\\",
-        "outputPath": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Application\\obj\\",
+        "projectPath": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\negar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj": {
-                "projectPath": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj"
+              "E:\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj": {
+                "projectPath": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj": {
+    "E:\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
+        "projectUniqueName": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
         "projectName": "HR.LeaveManagment.Domain",
-        "projectPath": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
-        "packagesPath": "C:\\Users\\negar\\.nuget\\packages\\",
-        "outputPath": "D:\\my-leave-management-dotnetcore\\HR.LeaveManagment.Domain\\obj\\",
+        "projectPath": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\negar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
