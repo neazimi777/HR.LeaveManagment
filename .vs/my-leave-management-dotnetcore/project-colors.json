@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "023481ea-e764-4b46-a44f-d5329882020f": {
+      "ProjectGuid": "023481ea-e764-4b46-a44f-d5329882020f",
+      "DisplayName": "HR.LeaveManagement.Persistence",
+      "ColorIndex": 0
+    },
+    "eb374dd0-2459-43c6-8117-137b4efa24c9": {
+      "ProjectGuid": "eb374dd0-2459-43c6-8117-137b4efa24c9",
+      "DisplayName": "HR.LeaveManagment.Domain",
+      "ColorIndex": 1
+    },
+    "1dc338dc-43bf-41dd-bb94-5fa4a4b0c1bb": {
+      "ProjectGuid": "1dc338dc-43bf-41dd-bb94-5fa4a4b0c1bb",
+      "DisplayName": "HR.LeaveManagment.Application",
+      "ColorIndex": 2
+    },
+    "e1c9b69b-64a9-4bc0-899d-70e8afffd32a": {
+      "ProjectGuid": "e1c9b69b-64a9-4bc0-899d-70e8afffd32a",
+      "DisplayName": "HR.LeaveManagment.Api",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
